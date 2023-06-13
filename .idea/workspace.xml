@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c24247d-5721-45f3-a637-b97eb9131b26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/Main.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vars/buildImage.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vars/buildjar.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vars/buildImage.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/buildImage.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vars/buildjar.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/buildjar.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
